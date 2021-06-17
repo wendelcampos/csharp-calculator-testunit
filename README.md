@@ -7,7 +7,7 @@
 
 ## :bookmark: Sobre o Projeto
 
-Calculadora simples para simular uma calculadora e testes unitarios com Xunit, Shouldly e Moq, criado em C# utilizando Visual Studio Community
+Calculadora simples para simular testes unitarios com Xunit, Shouldly e Moq, criado em C# utilizando Visual Studio Community
 
 ## :rocket: Tecnologias Utilizadas
 
